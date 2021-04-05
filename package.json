@@ -1,0 +1,12 @@
+{
+  "name": "boostpow-rpc-server",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Merlin Buczek",
+  "license": "MIT",
+  "dependencies": {
+    "json-rpc2": "^2.0.0"
+  }
+}
